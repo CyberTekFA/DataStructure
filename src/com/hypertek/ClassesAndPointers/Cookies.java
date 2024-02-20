@@ -16,5 +16,6 @@ class Main{
         var green = new Cookies("Green");
         System.out.println(green.getColor());
 
+
     }
 }
